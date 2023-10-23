@@ -1,0 +1,14 @@
+{
+  "hash": "b73a061ae1f27da044da4d9bd362c687",
+  "result": {
+    "markdown": "---\ntitle: \"Home\"\n---\n\n\n## Welcome to my website! :)\n\n### A brief self introduction...\n\nI am Wong Zi Xin, a Year 3 undergraduate student double majoring in Psychology and Communications and New Media at the National University of Singapore. I am particularly interested in children's moral development, and am currently a part of the NUS Child Development Lab where we look at moral behaviour in children. I aspire to work in a field directly related to children in the future!\n\n### Some fun facts about myself!\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](photo_2023-10-19 18.37.25.jpeg){width=100%}\n:::\n:::\n\n\nTo share a little more about myself, I love cafe hopping with my friends and dancing in my free time when I am not caught up with school work and commitments. Some of the cafes on my list to explore include *September Coffee* and *Nesuto*. I also love travelling, and some countries on my bucket list are Nepal, Italy and Vietnam. I recently visited Kyoto and Osaka over the summer break, and miss the delicious food there!\n\n### What's brewing?\n\nI created this website as part of my project for my NM2207 module, and am excited to share my creations with what I have learnt in class! I will soon be starting on my data story project, stay tuned for the end product!\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

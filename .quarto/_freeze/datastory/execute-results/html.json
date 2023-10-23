@@ -1,0 +1,14 @@
+{
+  "hash": "760bb3f8f472085138146a3fb6f7bfaa",
+  "result": {
+    "markdown": "---\ntitle: \"Data Story\"\nformat: html\neditor: visual\n---\n\n\n## How have air transportation trends in the region of Europe evolved over the years, especially in a post COVID world? \n\n### To address this question, I conducted a preliminary round of analyses.\n\nFirst, I was interested in finding out about the yearly number of passengers travelling by air in the European Union region. I was particularly interested in looking at how much the numbers have dwindled since the outbreak of the pandemic, and how much air travel picked up in a post COVID world.\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](docs/images/screenshot.png){width=100%}\n:::\n:::\n\n\nFrom this line graph, it is evident that there is a steady increase in the number of air travel passengers since 2011, up till the outbreak of COVID-19 in 2019. From 2019-2020, the number of passengers decreased sharply. Following the opening up of borders again from 2020 onwards, there was a gradual increase in the number of passengers again in 2021, and a sharper increase from 2021-2022.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
