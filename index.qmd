@@ -11,7 +11,7 @@ I am Wong Zi Xin, a Year 3 undergraduate student double majoring in Psychology a
 ### Some fun facts about myself!
 
 ```{r, echo=FALSE, out.width='100%'}
-knitr::include_graphics("/Users/zixinwong/Desktop/NUS/Academics/CNM/NM2207/wongzixin.github.io/photo_2023-10-19 18.37.25.jpeg")
+knitr::include_graphics("photo_2023-10-19 18.37.25.jpeg")
 ```
 
 To share a little more about myself, I love cafe hopping with my friends and dancing in my free time when I am not caught up with school work and commitments. Some of the cafes on my list to explore include *September Coffee* and *Nesuto*. I also love travelling, and some countries on my bucket list are Nepal, Italy and Vietnam. I recently visited Kyoto and Osaka over the summer break, and miss the delicious food there!
