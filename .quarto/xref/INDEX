@@ -10,5 +10,26 @@
   },
   "datastory.qmd": {
     "datastory.html": "5578f691"
+  },
+  "docs/index.qmd": {
+    "index.html": "114fb8f4"
+  },
+  "docs/about.qmd": {
+    "about.html": "5dda225a"
+  },
+  "docs/datastory.qmd": {
+    "datastory.html": "e656d214"
+  },
+  "docs/test.qmd": {
+    "test.html": "63ce2cf6"
+  },
+  "test.qmd": {
+    "test.html": "da02609b"
+  },
+  "src/Week-4/Code-along-4.Rmd": {
+    "Code-along-4.html": "a6f3d30f"
+  },
+  "src/Week-4/Challenge-4.Rmd": {
+    "Challenge-4.html": "fbe287e5"
   }
 }
