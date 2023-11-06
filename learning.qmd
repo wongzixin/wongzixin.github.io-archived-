@@ -1,0 +1,17 @@
+---
+title: "Learning and Progress Tracking"
+format: html
+editor: visual
+---
+
+# Learning Progress
+
+This [document](https://docs.google.com/document/d/1inKG3E5zHJt-Ebd_CZYJZsWG_KuzMmu-JK3iT6kMqsw/edit?usp=sharing) highlights the concepts I have applied based on my knowledge from NM2207, and new learning I've done outside of NM2207 to work on my Final Data Story Project.
+
+# Module Reflection 
+
+## What are my key takeaways from the Final Project? 
+
+## What are my key insights from NM2207? 
+
+## How is my learning applicable in what I do in future? 
